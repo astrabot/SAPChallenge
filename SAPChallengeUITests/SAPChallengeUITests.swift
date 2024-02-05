@@ -1,8 +1,5 @@
 //
-//  SAPChallengeUITests.swift
-//  SAPChallengeUITests
-//
-//  Created by Aliaksandr Strakovich, posterXXL GmbH on 19.03.22.
+//  Created by Aliaksandr Strakovich on 19.03.22.
 //
 
 import XCTest
